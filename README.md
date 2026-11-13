@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of el-choco/kobalt.** Not for installation: use [Packagist](https://packagist.org/packages/el-choco/kobalt) or the [upstream repository](https://github.com/el-choco/kobalt-theme).
 
-**0** versions archived · Latest: [`0.1.0-alpha.15`](https://github.com/flarchive/el-choco-kobalt-theme/tree/archive/v0.1.0-alpha.15) · License: `MIT` · Flarum: `^2.0.2`
+**2** versions archived · Latest: [`0.1.0-alpha.15`](https://github.com/flarchive/el-choco-kobalt-theme/tree/archive/v0.1.0-alpha.15) · License: `MIT` · Flarum: `^2.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-alpha.14` | 2026-11-13 | `^2.0.2` | [Browse](https://github.com/flarchive/el-choco-kobalt-theme/tree/archive/v0.1.0-alpha.14) |
+| `0.1.0-alpha.15` | 2026-11-13 | `^2.0.2` | [Browse](https://github.com/flarchive/el-choco-kobalt-theme/tree/archive/v0.1.0-alpha.15) |
 
 Catalog entry: [packages/el-choco-kobalt-theme.json](https://github.com/flarchive/archive-index/blob/main/packages/el-choco-kobalt-theme.json)
 
